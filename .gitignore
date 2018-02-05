@@ -1,3 +1,10 @@
+bin/
+build/
+lib/
+
+points.root
+
+
 # Prerequisites
 *.d
 

@@ -1,0 +1,4 @@
+<lcgdict>
+    <class name="Point" />
+    <class name="std::vector<Point>" />
+</lcgdict>
